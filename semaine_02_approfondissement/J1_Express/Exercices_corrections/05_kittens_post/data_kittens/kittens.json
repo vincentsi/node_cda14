@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Bob",
+        "image": "bob.jpg",
+        "age": 16,
+        "description": "super cat"
+    },
+    {
+        "id": 2,
+        "name": "Wild",
+        "image": "wild.jpg",
+        "age": 10,
+        "description": "super cat"
+    },
+    {
+        "id": 3,
+        "name": "Nyan",
+        "image": "nyan.jpg",
+        "age": 12,
+        "description": "super cat"
+    },
+    {
+        "id": 4,
+        "name": "Saka",
+        "image": "https://placekitten.com/400/300",
+        "age": 3,
+        "description": "My Saka is the best"
+    },
+    {
+        "id": 5,
+        "name": "Ryan",
+        "image": "https://placekitten.com/399/400",
+        "age": 7,
+        "description": "Super chat"
+    },
+    {
+        "id": 6,
+        "name": "Bobby",
+        "image": "https://placekitten.com/401/400",
+        "age": 7,
+        "description": "Mon super chat"
+    },
+    {
+        "id": 7,
+        "name": "Bobette",
+        "image": "https://placekitten.com/402/400",
+        "age": 1,
+        "description": "Chaton"
+    },
+    {
+        "id": 8,
+        "name": "Ryan",
+        "image": "https://placekitten.com/389/389",
+        "age": 1,
+        "description": "chaton"
+    }
+]
