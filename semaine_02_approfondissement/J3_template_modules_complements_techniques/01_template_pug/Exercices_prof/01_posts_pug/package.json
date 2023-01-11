@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "api": "nodemon api.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
@@ -14,10 +13,9 @@
     "nodemon": "^2.0.15"
   },
   "dependencies": {
-    "axios": "^0.21.1",
-    "cors": "^2.8.5",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1"
+    "express": "^4.17.3",
+    "pug": "^3.0.2"
   },
   "type": "module"
 }
